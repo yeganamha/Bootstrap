@@ -1,0 +1,6 @@
+@for $i from 0 through 5{
+    .column-gap-#{$i}{
+        column-gap: 4px * $i;
+    }
+
+}

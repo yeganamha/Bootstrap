@@ -1,0 +1,31 @@
+.column-gap-0 {
+  -moz-column-gap: 0px;
+       column-gap: 0px;
+}
+
+.column-gap-1 {
+  -moz-column-gap: 4px;
+       column-gap: 4px;
+}
+
+.column-gap-2 {
+  -moz-column-gap: 8px;
+       column-gap: 8px;
+}
+
+.column-gap-3 {
+  -moz-column-gap: 12px;
+       column-gap: 12px;
+}
+
+.column-gap-4 {
+  -moz-column-gap: 16px;
+       column-gap: 16px;
+}
+
+.column-gap-5 {
+  -moz-column-gap: 20px;
+       column-gap: 20px;
+}/*# sourceMappingURL=main.css.map */
+
+
